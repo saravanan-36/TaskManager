@@ -1,5 +1,5 @@
 // /utils/apiPaths.js
-export const BASE_URL = "http://localhost:8000";
+export const BASE_URL = "https://backend-1-fhe4.onrender.com";
 
 export const API_PATHS = {
     AUTH: {
